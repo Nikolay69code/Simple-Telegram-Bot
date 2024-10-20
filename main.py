@@ -4,6 +4,9 @@ import random
 from telebot import types
 
 token = "7671552008:AAEHzK5BrfRqwigEXvX4wy8G-gAPTxxkCmc"
+token1 = "7650487955:AAEO4IXXxb2bYMCHloKHKXMsOtwmFQP5Lfk"
+token2 = "7758040041:AAHbsuH1DPpbh4XH6VN2ZaTAqQTuzH-sE7g"
+token3 = "7705833913:AAHDQC9fnm0AOSLxDBthXKm52LPSP9m4q1A"
 
 bot = telebot.TeleBot(token)
 
